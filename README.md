@@ -1,6 +1,15 @@
 # Template Repository for DRF SimpleJWT Apps
 
 Initially created: 3 July 2020
+
+TL;DR: Django server repository setup for SimpleJWT. Test user: `test` and pw `test`.
+
+---
+### Example repositories
+
+- Android: [Andrew-Chen-Wang/mobile-auth-example](https://github.com/Andrew-Chen-Wang/mobile-auth-example)
+- iOS: [Andrew-Chen-Wang/mobile-auth-example](https://github.com/Andrew-Chen-Wang/mobile-auth-example)
+
 ---
 ### Introduction
 
