@@ -1,0 +1,22 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/server"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: asgiref
+    versions:
+    - 3.3.1
+    - 3.3.2
+  - dependency-name: django
+    versions:
+    - 3.1.5
+    - 3.1.6
+  - dependency-name: pyjwt
+    versions:
+    - 2.0.1
+  - dependency-name: pytz
+    versions:
+    - "2020.5"
